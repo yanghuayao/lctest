@@ -1,3 +1,5 @@
+package com.yhy.test;
+
 /**
  * Created with IntelliJ IDEA
  * name：Lingce

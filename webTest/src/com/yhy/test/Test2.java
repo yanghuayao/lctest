@@ -1,4 +1,4 @@
-package com;
+package com.yhy.test;
 
 /**
  * Created with IntelliJ IDEA
