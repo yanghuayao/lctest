@@ -6,5 +6,6 @@ package com.yhy.service;
  * date：  2016/10/14 13:58
  */
 public class ProductService {
-
+    
+    System.out.print("=============");
 }
