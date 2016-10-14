@@ -12,5 +12,6 @@ public class Test {
         String a = "a";
         int i = 12;
         System.out.println("============");
+        System.out.println(i);
     }
 }
